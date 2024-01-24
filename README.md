@@ -58,3 +58,6 @@ TIP
 # 自助解包客户端
 [基于electron-vue开发的微信小程序自助解包(反编译)客户端](https://github.com/xuedingmiaojun/mp-unpack)
 
+
+# MAC 路径示例
+/Users/xxxxxx/Library/Containers/com.tencent.xinWeChat/Data/.wxapplet/packages/wxxxxxxxxx/11111111/__APP__.wxapkg
